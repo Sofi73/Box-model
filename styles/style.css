@@ -1,0 +1,40 @@
+.first {
+background-color: #FFEBCD;
+color: 	#CD5C5C;
+text-align: center;
+border: 3px solid #CD5C5C;
+width: 700px;
+height: 300px;
+margin: 50px 100px;
+padding: 20px 3% 50px; 
+}
+
+.second {
+background-color: #87CEFA;
+color: #0000FF;
+text-align: center;
+border: 3px solid #0000FF;
+width: 700px;
+height: 300px;
+margin: 50px 100px;
+padding: 20px 3% 50px; 
+box-sizing: border-box;
+}
+
+
+
+
+
+
+/* Домашка - прочитать и понять! 
+Сделать по 1-2 примера, как мы этим пользуемся. 
+Блочна модель (состоит из цсс свойств): 
+margin (ефект схлопування марджін) 
+padding
+border
+width
+height
+box-sizing
+
+Создавать для этого новый репозиторий. Кидать линк на репозиторий, а не на гитхаб. Создавать новый репозиторий,  если новая домашка не есть продолжением кода старой домашки.  
+*/
